@@ -72,6 +72,22 @@ module frontRotor() {
 	}
 }
 
+module dial() {
+	union() {
+		cylinder(h=5, r=40);
+		cylinder(h=20, r1=25, r2=15);
+	}
+}
+
+module spindle() {
+	translate([0,0,-30]) {
+		cylinder(h=70, r=4.5);
+	}
+	translate([0,0,22]) {
+		cylinder(h=5,r=5.1);
+	}
+}
+
 union() {
 	rearRotor();
 	rotate([0,0,15]) {
@@ -84,4 +100,8 @@ union() {
 			frontRotor();
 		}
 	}
+	translate([0,0,31]) {
+		dial();
+	}
+	spindle();
 }
