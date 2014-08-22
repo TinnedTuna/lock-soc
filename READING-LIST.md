@@ -46,6 +46,16 @@ locking mechanisms, and fall prey to simple attacks.
   * Common Format: PDF File
   * Availability: Web Search
 
+This short overview provides a whirl-wind tour of safecracking. It's main focus
+is simple rotary combination lock safes, with some additional security features
+(for example, re-lockers). It covers manipulation attacks, brute-force and 
+drilling, and mentions common methods of defense against such attacks.
+
+It's list of references is very illuminating, and worth having a look.
+
+The file can be found on 
+[Matt Blaze's Website](http://crypto.com/papers/safelocks.pdf)
+
 
 ## Operational Security
 
