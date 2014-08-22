@@ -41,7 +41,7 @@ master keys and even simple wafer locks.
 It is short (49 pages, several of which are large diagrams), and has very good 
 diagrams, and as such makes for an excellent starting point.
 
-Ft can often be turned up by a simple web search, but many members have a copy.
+It can often be turned up by a simple web search, but many members have a copy.
 
 ## Safes
 
