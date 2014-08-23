@@ -35,7 +35,7 @@ This is also sometimes referred to as "The Document Which Used to be Called The
 MIT Guide To Lock Picking"
 
 It describes the operational principles of pin-tumbler locks, and the defects
-which lead to it's failure. Towards the end, the guide covers security pens,
+which lead to it's failure. Towards the end, the guide covers security pins,
 master keys and even simple wafer locks.
 
 It is short (49 pages, several of which are large diagrams), and has very good 
