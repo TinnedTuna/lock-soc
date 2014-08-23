@@ -99,7 +99,7 @@ Ross Anderson's webpages.
   * Type: Book (Tome)
   * Length: 1040 pages
   * Common Format: Book
-  * Availability: Amazon, Individual Chapers Online
+  * Availability: Amazon, Individual Chapers Online, Library (SK 96 AND)
 
 Written in 1998, and updated in 2008, Ross Anderson's Security Engineering 
 gives a solid treatment to it's namesake. It concerns itself with security
